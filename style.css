@@ -1,0 +1,93 @@
+/* defines font for all text */
+.body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* more text stuff */
+.content {
+    position: fixed;
+    background: transparent;
+    width: 100%;
+    color: #f1f1f1;
+    z-index: 2;
+}
+
+/* bg */
+video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: 1;
+}
+
+/* text */
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    display: block;
+    font-size: 75;
+    text-align: center;
+    padding: 17.5% 0px;
+    z-index: 2;
+    font-weight: 500;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+    color: rgb(255, 255, 255);
+    display: block;
+    text-align: center;
+    margin-top: -15em;
+    font-weight: 200;
+}
+
+/* button hover */
+button {
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 8px 20px;
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    opacity: 0.75;
+    transition: 0.2s;
+}
+
+button:hover {opacity: 1}
+
+/* center */
+.container {
+    height: 200px;
+    position: relative;
+}
+  
+.center {
+    margin: 0;
+    position: absolute;
+    top: 105%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center2 {
+    margin: 0;
+    position: absolute;
+    top: 117%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.center3 {
+    margin: 0;
+    position: absolute;
+    top: 129%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
