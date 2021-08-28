@@ -18,23 +18,24 @@
       <source src="tunnel_mp4.mp4" type="video/mp4">
     </video>
 
-    <audio loop autoplay hidden><source src="mymind.mp3"</audio>   
+    <audio id="audiothatscool" loop autoplay hidden><source src="mymind.mp3"</audio>   
+
+    <script>
+      var audio = document.getElementById("audiothatscool");
+      audio.volume = 0.2;
+    </script>
     
   </div>
 
   <!---  this holds buttons and etc  --->
   <body>
-    <div class="content">
 
+    <div class="content">
       <div class="center">
         <button onclick=" window.open('https://www.youtube.com/c/specowos','_blank')">youtube</button>
-      </div>
-
-      <div class="center2">
+        <p></p>
         <button onclick=" window.open('https://twitter.com/specowos','_blank')">twitter</button>
-      </div>
-
-      <div class="center3">
+        <p></p>
         <button onclick=" window.open('https://discord.gg/Xca3Zh5F9g','_blank')">discord server</button>
       </div>
       
