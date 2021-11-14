@@ -1,6 +1,6 @@
 # me site 😎
 <br />
-CLICK CLICK >> https://spec-is-cool.tk/ << CLICK CLICK
+CLICK CLICK >> https://spec-is-cool.tk/ << CLICK CLICK<br />
 <br />
 cool site i mak with big owos 😱 <br />
 it just has my socials <br />
