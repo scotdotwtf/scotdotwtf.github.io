@@ -69,5 +69,5 @@ button:hover {opacity: 0.8;}
   top: 50%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -20%);
 }
