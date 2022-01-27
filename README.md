@@ -1,4 +1,4 @@
-# me site 😎
+# me site (FREE TO USE AS A TEMPLATE) 😎
 <br />
 CLICK CLICK >> https://spec-is-cool.tk/ << CLICK CLICK<br />
 <br />
