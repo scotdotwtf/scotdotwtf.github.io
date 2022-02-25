@@ -1,3 +1,7 @@
+html {
+    cursor:url("../cursor.png"), default;   
+}
+
 /* defines font for all text */
 .body {
     font-family: 'Poppins', sans-serif;
