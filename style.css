@@ -21,7 +21,7 @@ html {
     display: flex;
     overflow: scroll;
     transform: translate(0, -40px);
-    overflow-y: hidden; /* Hide vertical scrollbar */
+    overflow-y: hidden;
 }
 
 .gallery .gal-vido, img {
