@@ -25,6 +25,7 @@ html {
 }
 
 .gallery .gal-vido, img {
+    display: block;
     flex: 1 0 auto;
 }
 
