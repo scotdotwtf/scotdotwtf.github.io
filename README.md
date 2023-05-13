@@ -1,2 +1,2 @@
 # https://scot.wtf
-![websitelogo](https://raw.githubusercontent.com/specowos/specowos.github.io/main/resources/scotwtf.png)
+![websitelogo](https://raw.githubusercontent.com/scotdotwtf/scotdotwtf.github.io/main/resources/scotwtf.png)
